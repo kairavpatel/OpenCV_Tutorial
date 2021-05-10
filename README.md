@@ -11,4 +11,12 @@ In this project, user can able to find countours in the input image.
 In this project, user can able to reduce the color of the image, by applying the Kmeans cluter number while running the script. This ultimately also reduced the memory occupation of the image.
 ## MAXRGB_Filter
 In this project, user can indentify intensity of the three colors (Red, Green, Blue) into the video.
+## Mouse_Event
+In this project, user can see the color of the specific part of the image and perticular part can be selected by mouse.
+## Rotaion_Change_Image
+In this project, first-of-all two images should be selected, and this images will be rotated and simultaneously change also.
+## Object_Motion_Tracking
+In this project, object motion will tracked with help of the OpenCV inbuilt funtion : findcountour. 
+## Change_Iamge
+In this project, Two image atuomatically changes.
 
