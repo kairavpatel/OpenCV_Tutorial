@@ -17,6 +17,6 @@ In this project, user can see the color of the specific part of the image and pe
 In this project, first-of-all two images should be selected, and this images will be rotated and simultaneously change also.
 ## Object_Motion_Tracking
 In this project, object motion will tracked with help of the OpenCV inbuilt funtion : findcountour. 
-## Change_Iamge
+## Change_Image
 In this project, Two image atuomatically changes.
 
